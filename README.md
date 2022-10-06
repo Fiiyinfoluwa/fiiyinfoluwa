@@ -8,10 +8,10 @@ I'm a Cloud Computing enthusiast.
 
 - 😊 Pronouns: He/him
 - 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
-- 🌱 I’m currently learning JavaScript, HTML, CSS ||AWS, GCP, Azure, Docker.
+- 🌱 I’m currently learning AWS, GCP, Azure, Docker, Kubernetes, Github Actions.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
-- 💼 Job interests: Cloud Engineer.
-- 📫 You can [view my resume](#) and contact me by emailing fatuasefiyinfoluwa@gmail.com.
+- 💼 Job interests: Cloud Engineer/DevOps.
+- 📫 You can [view my resume](https://drive.google.com/file/d/112YrXGoK4fULSPcR4tdr0UcFBzDT2LUE/view?usp=sharing) and contact me by emailing fatuasefiyinfoluwa@gmail.com.
 
 ---
 
