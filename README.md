@@ -14,7 +14,3 @@ I'm a Cloud Computing enthusiast.
 - 📫 You can [view my resume](https://drive.google.com/file/d/112YrXGoK4fULSPcR4tdr0UcFBzDT2LUE/view?usp=sharing) and contact me by emailing fatuasefiyinfoluwa@gmail.com.
 
 ---
-
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Fiiyinfoluwa&show_icons=true&include_all_commits=true&hide_border=true" alt="Fiyinfoluwa's GitHub stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Fiiyinfoluwa&langs_count=8&layout=compact&hide_border=true" alt="Fiyinfoluwa's GitHub stats" /> |
-| ------------- | ------------- |
-
