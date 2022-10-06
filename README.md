@@ -11,6 +11,6 @@ I'm a Cloud Computing enthusiast.
 - 🌱 I’m currently learning AWS, GCP, Azure, Docker, Kubernetes, Github Actions.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer/DevOps.
-- 📫 You can [view my resume](https://drive.google.com/file/d/112YrXGoK4fULSPcR4tdr0UcFBzDT2LUE/view?usp=sharing) and contact me by emailing fatuasefiyinfoluwa@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1f7F6tExa1o-BZa9eUGike-aZxscKblUu/view?usp=sharing) and contact me by emailing fatuasefiyinfoluwa@gmail.com.
 
 ---
