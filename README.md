@@ -7,10 +7,9 @@ I'm a Junior Cloud Engineer.
 **Here's a quick summary about me**:
 
 - 😊 Pronouns: He/him
-- 💡 Fun fact: I'm currently studying at AltSchool Africa [School of Software Engineering](https://altschoolafrica.com/schools/engineering) Class of 2022.
 - 🌱 I’m currently learning AWS, GCP, Azure, Docker, Kubernetes, Github Actions.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer/DevOps.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1f7F6tExa1o-BZa9eUGike-aZxscKblUu/view?usp=sharing) and contact me by emailing fatuasefiyinfoluwa@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1KSgOGslWmC2y8ocs2zXvjJwAygsO83NR/view?usp=sharing) and contact me by emailing fatuasefiyinfoluwa@gmail.com.
 
 ---
