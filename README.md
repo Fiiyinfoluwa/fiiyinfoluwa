@@ -10,6 +10,6 @@ I'm a Junior Cloud Engineer.
 - 🌱 I’m currently learning AWS, GCP, Azure, Docker, Kubernetes, Github Actions.
 - 😊 I’m looking for help with open source projects, hackathons, internships, and entry-level opportunities.
 - 💼 Job interests: Cloud Engineer/DevOps.
-- 📫 You can [view my resume](https://drive.google.com/file/d/1KSgOGslWmC2y8ocs2zXvjJwAygsO83NR/view?usp=sharing) and contact me by emailing fatuasefiyinfoluwa@gmail.com.
+- 📫 You can [view my resume](https://drive.google.com/file/d/1h9qRJjh9v5t2_51tEuKyZtJEqNBEIBUE/view?usp=share_link) and contact me by emailing fatuasefiyinfoluwa@gmail.com.
 
 ---
